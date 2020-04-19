@@ -1,0 +1,12 @@
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\bin\Debug\netstandard2.0\TradingEngine.Domain.dll
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\obj\Debug\netstandard2.0\TradingEngine.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\obj\Debug\netstandard2.0\TradingEngine.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\obj\Debug\netstandard2.0\TradingEngine.Infrastructure.AssemblyInfo.cs
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\obj\Debug\netstandard2.0\TradingEngine.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\bin\Debug\netstandard2.0\TradingEngine.Infrastructure.deps.json
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\bin\Debug\netstandard2.0\TradingEngine.Infrastructure.dll
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\bin\Debug\netstandard2.0\TradingEngine.Domain.pdb
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\obj\Debug\netstandard2.0\TradingEngine.Infrastructure.csproj.CopyComplete
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\bin\Debug\netstandard2.0\TradingEngine.Infrastructure.pdb
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\obj\Debug\netstandard2.0\TradingEngine.Infrastructure.dll
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Infrastructure\obj\Debug\netstandard2.0\TradingEngine.Infrastructure.pdb

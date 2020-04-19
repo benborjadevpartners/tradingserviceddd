@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9mOnaXG9fHP9sKkRaGq7QpUWBX6AGe7O2jJ1lgs8YQLGjwQRPVrnHZIytH1a4WZc4EZIYx5npqTRBktPLBA1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\source\\repos\\TradingEngine.API\\TradingEngine.Domain\\TradingEngine.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

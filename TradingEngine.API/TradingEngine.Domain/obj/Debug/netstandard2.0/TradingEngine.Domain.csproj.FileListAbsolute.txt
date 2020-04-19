@@ -1,0 +1,9 @@
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Domain\bin\Debug\netstandard2.0\TradingEngine.Domain.deps.json
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Domain\bin\Debug\netstandard2.0\TradingEngine.Domain.dll
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Domain\bin\Debug\netstandard2.0\TradingEngine.Domain.pdb
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Domain\obj\Debug\netstandard2.0\TradingEngine.Domain.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Domain\obj\Debug\netstandard2.0\TradingEngine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Domain\obj\Debug\netstandard2.0\TradingEngine.Domain.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Domain\obj\Debug\netstandard2.0\TradingEngine.Domain.AssemblyInfo.cs
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Domain\obj\Debug\netstandard2.0\TradingEngine.Domain.dll
+C:\Users\Home\source\repos\TradingEngine.API\TradingEngine.Domain\obj\Debug\netstandard2.0\TradingEngine.Domain.pdb
